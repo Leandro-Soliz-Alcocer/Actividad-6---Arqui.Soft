@@ -8,13 +8,13 @@ Para actualizar la informacion de los empleados
 ## Decorator:
 Para extender funcionalidades a los empleados
 
-## S:
+### S:
 Cada clase cumple una unica funcionalidad
-## O:
+### O:
 El codigo esta abierto para la extension y cerrado para la modificacion
-## L:
-Las instancias empleado pueden ser sustituidas por instancias decoradas, en este caso: BonoExtra
-## I:
-Las interfaces esta bien segregadas, en este caso: EmpleadoFactory, Observador
-## D:
-El codigo depende de Abstracciones y no de implementaciones concretas, por ejemplo: EmpleadoFactory, Observador
+### L:
+Las instancias empleado pueden ser sustituidas por instancias decoradas, en este caso: **BonoExtra**
+### I:
+Las interfaces esta bien segregadas, en este caso: **EmpleadoFactory**, **Observador**
+### D:
+El codigo depende de Abstracciones y no de implementaciones concretas, por ejemplo: **EmpleadoFactory**, **Observador**
